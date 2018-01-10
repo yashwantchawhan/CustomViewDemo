@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Pizza">
+
+        <attr name="num_wedges" format="integer" />
+        <attr name="stroke_width" format="dimension"></attr>
+        <attr name="color" format="color"></attr>
+    </declare-styleable>
+</resources>

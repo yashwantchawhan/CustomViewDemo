@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.customviewdemo.SideShowsLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/firstView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+
+        android:background="@android:color/holo_blue_bright"
+        android:text="First View big"
+        android:textColor="@android:color/white" />
+
+
+    <TextView
+        android:id="@+id/secondView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+
+        android:background="@android:color/holo_green_light"
+        android:text="Second View"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/thirdView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+
+        android:background="@android:color/holo_red_light"
+        android:text="Third View"
+        android:textColor="@android:color/white" />
+
+</com.customviewdemo.SideShowsLayout>
