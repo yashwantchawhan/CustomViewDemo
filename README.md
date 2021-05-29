@@ -5,10 +5,15 @@ Creating your own view gives you control over the appearance and function of a v
 
 To give an idea of the control you get with custom views, here are some examples, I have built using custom views:
 
-1.LengthPicker
-2.Pizza slice
-3.PhotoSpiral
-4.SquareView
-5.SideShowsSLayout
-6.VersionView
+1. LengthPicker
+
+2. Pizza slice
+
+3. PhotoSpiral
+
+4. SquareView
+
+5. SideShowsSLayout
+
+6. VersionView
 
