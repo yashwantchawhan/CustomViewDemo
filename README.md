@@ -15,5 +15,3 @@ To give an idea of the control you get with custom views, here are some examples
 
 5. SideShowsSLayout
 
-6. VersionView
-
